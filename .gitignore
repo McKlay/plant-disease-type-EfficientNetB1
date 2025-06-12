@@ -1,9 +1,9 @@
 *.pyc
 __pycache__/
 
-model/efficientnetb1_plant_final.weights.h5/
-model/.efficientnetb1_plant_model.h5/
+model/efficientnetb1_plant_final.weights.h5
+model/efficientnetb1_plant_model.h5
 
-assets/Pepper__bell___healthy.jpg/
-assets/Potato___Early_blight.jpg/
-assets/Potato___healthy.jpg/
+assets/Pepper__bell___healthy.jpg
+assets/Potato___Early_blight.jpg
+assets/Potato___healthy.jpg
